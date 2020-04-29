@@ -1,0 +1,37 @@
+
+.main-content{
+    background: #2c3e50;
+    color: white;
+}
+.img-thumbnail{
+    width: 60px;
+}
+.below{
+    padding-top: 100px;
+}
+.hello{
+    width: 400px;
+}
+.navbar{
+    animation: nav 3s 1;
+}
+@keyframes nav{
+    0%{
+        display: none;
+    }
+    30%{
+        margin-top: -70px;
+    }
+
+}
+.list-inline-item{
+    border-radius: solid 100%;
+    padding: 10px;
+    
+}
+.list-inline-item a i{
+    
+}
+
+
+
